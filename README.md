@@ -120,6 +120,57 @@ ml-decision-tree
 
 ---
 
+## 📈 Results
+
+The Decision Tree Classifier demonstrated strong predictive performance on the Breast Cancer Wisconsin dataset, accurately distinguishing between malignant and benign tumors while maintaining high precision and recall.
+
+### Model Performance
+
+| Metric | Score |
+|--------|------:|
+| Accuracy | **93.86%** |
+| Precision | **95.77%** |
+| Recall | **94.44%** |
+| F1-Score | **95.10%** |
+| ROC-AUC | **93.42%** |
+
+### Key Outcomes
+
+- Achieved **93.86% classification accuracy** on the test dataset.
+- Correctly identified malignant and benign tumors with high precision and recall.
+- Generated an interpretable Decision Tree for transparent decision-making.
+- Ranked feature importance to identify the most influential predictors.
+- Saved evaluation metrics, classification reports, predictions, and visualizations to the `outputs/` directory.
+- Exported the trained model using **Joblib** for future inference without retraining.
+
+### Generated Outputs
+
+**Figures**
+- Decision Tree Visualization
+- Feature Importance
+- Confusion Matrix
+- ROC Curve
+- Target Distribution
+- Feature Distributions
+- Correlation Heatmap
+
+**Tables**
+- Dataset Preview
+- Dataset Summary
+- Missing Values
+- Target Distribution
+- Correlation Matrix
+- Training Features & Labels
+- Sample Predictions
+- Evaluation Metrics
+- Classification Report
+- Feature Importance
+- Confusion Matrix
+
+
+---
+
+
 ## 📚 ML Fundamentals Series
 
 This repository is part of my **ML Fundamentals** series, where each project explores a fundamental machine learning algorithm through practical implementation, visualization, evaluation, and interpretation.
