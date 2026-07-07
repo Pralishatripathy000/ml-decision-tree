@@ -1,3 +1,7 @@
+
+<img width="1402" height="1122" alt="cd3e44c6-604d-4bd8-8761-21868babb134" src="https://github.com/user-attachments/assets/bf2e56fd-b5f4-45ce-a0d5-c309ad770947" />
+
+
 # 🌳 ML Decision Tree
 
 > **An end-to-end implementation of Decision Tree Classification using the Breast Cancer Wisconsin dataset, covering exploratory data analysis, model training, tree visualization, feature importance, and model evaluation.**
